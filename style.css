@@ -21,3 +21,10 @@ h2{background-color:#F2F5A9}
 #moon{
   float:left;
 }
+#Rese{
+  display:flex;
+  justify-content: center;
+}
+#v1{
+  margin-right:150px;
+}
